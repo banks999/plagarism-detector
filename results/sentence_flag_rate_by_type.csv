@@ -1,0 +1,9 @@
+category,TF-IDF cosine,3-gram containment,Semantic (embeddings),Combined
+exact,1.0,1.0,1.0,1.0
+synonym,0.96,0.92,1.0,1.0
+reorder,1.0,1.0,1.0,1.0
+paraphrase,0.3,0.04,0.98,0.9
+mixed: copied/paraphrased sentences,0.75,0.55,1.0,0.95
+mixed: original sentences,0.0,0.0,0.0,0.0
+hard_neg,0.0,0.0,0.08,0.0
+easy_neg,0.0,0.0,0.0,0.0

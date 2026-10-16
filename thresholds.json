@@ -1,0 +1,9 @@
+{
+  "sbert:all-MiniLM-L6-v2": {
+    "tfidf": 0.25,
+    "containment": 0.25,
+    "semantic": 0.5782,
+    "combined": 0.35,
+    "coverage": 0.3
+  }
+}

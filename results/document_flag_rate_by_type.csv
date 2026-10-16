@@ -1,0 +1,8 @@
+category,TF-IDF cosine,3-gram containment,Semantic (embeddings),Combined
+exact,1.0,1.0,1.0,1.0
+synonym,1.0,1.0,1.0,1.0
+reorder,1.0,1.0,1.0,1.0
+paraphrase,0.4,0.0,1.0,1.0
+mixed,0.5,0.1,1.0,0.9
+hard_neg,0.0,0.0,0.2,0.0
+easy_neg,0.0,0.0,0.0,0.0
